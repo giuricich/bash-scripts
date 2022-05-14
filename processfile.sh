@@ -77,3 +77,5 @@ q|6)
 *)
 	echo "Invalid Entry, Please Try Again"
 esac
+# cleans up terminal output
+echo -ne $default

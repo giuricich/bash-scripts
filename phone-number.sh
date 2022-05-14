@@ -22,4 +22,6 @@ do
 		echo -e "That dosen't look right... Try again.\n"
 	fi	
 done
+# clean up terminal output
+echo -ne $default
 exit
